@@ -1,1 +1,18 @@
-/*# sourceMappingURL=main.css.map */
+@import url(./utils/_variables.scss);
+@import url(./utils/_resetting-styles.scss);
+@import url(./base/_general-styles.scss);
+@import url(./components/_page-header.scss);
+@import url(./components/_site-nav.scss);
+@import url(./components/_header-contacts.scss);
+@import url(./components/_hero-section.scss);
+@import url(./components/_benefits-section.scss);
+@import url(./components/_job-derections.scss);
+@import url(./components/_team.scss);
+@import url(./components/_clients-section.scss);
+@import url(./components/_portfolio-filters-button.scss);
+@import url(./components/_portfolio-projects.scss);
+@import url(./components/_page-footer.scss);
+@import url(./components/_footer-soc-links.scss);
+@import url(./components/_footer-subsc-form.scss);
+@import url(./components/_backdrop-modal.scss);
+@import url(./components/_modal-form.scss);/*# sourceMappingURL=main.css.map */
